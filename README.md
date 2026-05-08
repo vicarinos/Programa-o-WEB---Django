@@ -3,7 +3,7 @@
 Código-fonte produzido durante os vídeos da playlist de introdução ao Django no YouTube da TreinaWeb.
 
 ## Setup do ambiente
-
+Teste
 Caso precise de ajuda para configurar o ambiente, siga as instruções do documento [SETUP.md](./.github/SETUP.md).
 
 ## Lista de Commits
